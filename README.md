@@ -1,6 +1,10 @@
 # Data Science Portfolio
 
-parthnvalani@gmail.com | (807) 357-6372 | LinkedIn: linkedin.com/in/parthvalani | GitHub: github.com/parthvalani
+Email: parthnvalani@gmail.com 
+
+Contact: (807) 357-6372
+
+LinkedIn: https://www.linkedin.com/in/parth-valani-863548147/
 
 
 # EDUCATION
@@ -45,17 +49,26 @@ parthnvalani@gmail.com | (807) 357-6372 | LinkedIn: linkedin.com/in/parthvalani 
 
 # PROJECTS
 
-## Project 1: Deep Convolution Neural Network for Tabular Data-processing
-Ranked 1st in the batch for presenting and developing an automated method to convert non-image data (2D) into images (3D) via feature extraction method. Moreover, it beats all previous attempts to gain the highest performance on DCNN Architecture for several large and small tabular datasets.
+## [Project 1: Deep Convolution Neural Network for Tabular Data-processing](https://github.com/parthvalani/DCNN-for-Tabular-data)
+•	Ranked 1st in the batch for presenting and developing an automated method to convert non-image data (2D) into images (3D) via feature extraction method. Moreover, it beats all previous attempts to gain the highest performance on DCNN Architecture for several large and small tabular datasets.
 
-## Project 2: Object Centric Image Recognition
-Implemented pretrained Keras models (InceptionV3, DenseNet121, ResNet50) which integrates methods like data augmentation, autoencoder and transfer learning to boost performance. Then, classify the images using CUDA-based ML algorithm (ELM) for parallel-processing and achieved a decent (>90%) accuracy on cifar10, cifar100, caltech101 and caltech256 datasets.
+## [Project 2: Object Centric Image Recognition](https://github.com/parthvalani/Extreme-Learning-Machine)
+•	Structured deep learning model in TensorFlow Framework which can achieved an average of 90% accuracy on big datasets. 
 
-## Project 3: Abstractive Text-Summarization 
-Designed a python program that generates 2-3 lines of a most relevant summary of the customer reviews on the amazon food products using time-series prediction (LSTM) encoder-decoder model within 5 to 10 seconds. Also, Various NLP techniques had been used in data cleaning and preparation phase.
+•	Implemented a model which integrates methods like data augmentation, feature extraction, feature fusion and transfer learning to boost the performance.
 
-## Project 4: Attendance Taker-System via Face-Recognition
-Built an application that reduced processing time to 100 milliseconds for scanning faces in real-time and made the attendance filling process effortless for the professors at college.
+•	Converted classification algorithm from python to C code for GPU utilization using Nvidia CUDA Toolkit.
+
+## [Project 3: Abstractive Text-Summarization](https://github.com/parthvalani/Text-summarization)
+•	Designed a python program that generates 2-3 lines of a most relevant summary of the customer reviews on the amazon food products using time-series prediction (LSTM) encoder-decoder model within 5 to 10 seconds. Also, Various NLP techniques had been used in data cleaning and preparation phase.
+
+## [Project 4: Attendance Taker-System via Face-Recognition](https://github.com/parthvalani/Attendence-Checker-System)
+•	Built an application that reduced processing time to 100 milliseconds for scanning faces in real-time and made the attendance filling process effortless for the professors at our college.
+
+## [Project 5: Sentimental Analysis using Twitter Data](https://github.com/parthvalani/Tweet-review-analysis)
+•	Coded python program to get the sentiments of any word from the Twitter.
+
+•	Utilized Twitter API to fetch the real time data and classify into positive, negative, and neutral tweets based on polarity. It detects the sarcastic tweets using emotions.
 
 # TECHNICAL SKILLS
 **_Programming Languages_**: Python, R, MATLAB, C/C++, SQL, JavaScript, HTML, CSS
