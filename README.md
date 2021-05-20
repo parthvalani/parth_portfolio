@@ -49,7 +49,7 @@ LinkedIn: https://www.linkedin.com/in/parth-valani-863548147/
 
 # PROJECTS
 
-## [Project 1: Deep Convolution Neural Network for Tabular Data-processing](https://github.com/parthvalani/DCNN-for-Tabular-data)
+## [Project 1: Deep Convolution Neural Network for Tabular Data](https://github.com/parthvalani/DCNN-for-Tabular-data)
 •	Ranked 1st in the batch for presenting and developing an automated method to convert non-image data (2D) into images (3D) via feature extraction method. Moreover, it beats all previous attempts to gain the highest performance on DCNN Architecture for several large and small tabular datasets.
 
 ## [Project 2: Object Centric Image Recognition](https://github.com/parthvalani/Extreme-Learning-Machine)
