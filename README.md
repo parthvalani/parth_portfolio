@@ -2,18 +2,15 @@
 
 parthnvalani@gmail.com | (807) 357-6372 | LinkedIn: linkedin.com/in/parthvalani | GitHub: github.com/parthvalani
 
-# PROFESSIONAL SUMMARY
-• Recent graduate of a top-tier university with 1+ years of experience in data processing, building and deploying predictive models to improve accuracy and visualizing meaningful insights for the company.
-
 # EDUCATION
-Master of Science in Computer Science Sep 2019 - Apr 2021
-Lakehead University; GPA: 3.82/4.00 Thunder Bay, Ontario
-Relevant Coursework: Machine Learning, Deep Learning, Natural Language Processing, Pattern Recognition, Optimization Methods, Computer Vision, Smart Health Informatics
-Certifications: Deep Learning Specialization (Coursera), Machine Learning (Stanford), Tableau essential training (LinkedIn)
+## Master of Science in Computer Science                                                                                                                      Sep 2019 - Apr 2021
+_Lakehead University_ ; **GPA** : 3.82/4.00                                                                                                                  Thunder Bay, Ontario
+**Relevant Coursework**: Machine Learning, Deep Learning, Natural Language Processing, Pattern Recognition, Optimization Methods, Computer Vision, Smart Health Informatics
+**Certifications**: Deep Learning Specialization (Coursera), Machine Learning (Stanford), Tableau essential training (LinkedIn)
 
-Bachelor of Engineering in Information Technology Aug 2015 - Jun 2019
-L.D College of Engineering; GPA: 3.75/4.0 Ahmedabad, India
-Relevant Coursework: Artificial Intelligence, Image Processing, Mathematics and Statistics, Data mining, Software Engineering, Data Structure, Analysis and Design of Algorithms, Big Data Analytics
+## Bachelor of Engineering in Information Technology                                                                                                          Aug 2015 - Jun 2019
+_L.D College of Engineering_; **GPA**: 3.75/4.0                                                                                                                  Ahmedabad, India
+**Relevant Coursework**: Artificial Intelligence, Image Processing, Mathematics and Statistics, Data mining, Software Engineering, Data Structure, Analysis and Design of Algorithms, Big Data Analytics
 
 # WORK EXPERIENCE
 Data Scientist - Internship Nov 2018 - Jun 2019 BlueBit Technologies Surat, India
