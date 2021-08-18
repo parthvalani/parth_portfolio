@@ -82,4 +82,4 @@ LinkedIn: https://www.linkedin.com/in/parth-valani-863548147/
 # LEADERSHIPS AND ACHIEVEMENTS
 • Guided team members of LDCE ROBOCON CLUB to construct the self-driving car, which consists of sensors, Microcontrollers, and data transmitters for real-time location tracking.
 
-• Secured 215th rank in INDIAN ENGINEERING OYMPIYAD a national level engineering examination in the year 2016.
+• Secured 215th rank in INDIAN ENGINEERING OLYMPIYAD a national level engineering examination in the year 2016.
